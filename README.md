@@ -1,7 +1,2 @@
-# ds202-heike
-a repository
-hello world
+# ode to an academic advisor
 
-- first
-- second item
-- and a third
